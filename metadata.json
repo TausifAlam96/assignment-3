@@ -1,0 +1,6 @@
+{
+  "name": "Digital Heroes - Golf & Charity Draw Platform",
+  "description": "A modern subscription-based golf performance platform combining Stableford score tracking, charity contributions, monthly prize draws with jackpot rollovers, winner verification, and an administrative command center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
